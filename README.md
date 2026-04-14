@@ -62,10 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/potluriprashanth33/potluriprashanth33/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=potluriprashanth33.potluriprashanth33&right_color=yellow"  />
 </div>
